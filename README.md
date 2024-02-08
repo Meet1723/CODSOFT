@@ -1,1 +1,1 @@
-Landing page of website.
+Landing page of website using HTML and CSS.
